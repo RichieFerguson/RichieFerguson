@@ -4,10 +4,8 @@
   Strava, Zwift, etc
 - 🌱 I’m currently learning Web developement,
   data management, and Java/spring
-- 💞️ I’m looking to collaborate on Java projects
+- 🔥 I’m looking to collaborate on Java projects
   or game projects like fallout
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love to run, ride bikes, and be in nature.
 
 <!---
